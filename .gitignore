@@ -1,0 +1,6 @@
+_site/*
+.idea/
+.sass-cache
+.Ulysses-favorites.plist
+.Ulysses-Group.plist
+.UlyssesRoot
