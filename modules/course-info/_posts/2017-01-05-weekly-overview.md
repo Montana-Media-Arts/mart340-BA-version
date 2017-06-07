@@ -4,13 +4,13 @@ title: Weekly Overview
 
 # Large Topics
 
-1. UX (User Experience) Design & HCI (Human Computer Interaction)
-2. Interactive Game Art
+1. Interactive Game Art
     - Unity
-3. Aesthetics and Composition of Interactive Systems
+2. Aesthetics and Composition of Interactive Systems
     - Interactive Art
         - Ars Electronica | Golden Nica
         - Analysis & Discussion
+3. UX (User Experience) Design & HCI (Human Computer Interaction)
 
 
 
@@ -21,6 +21,14 @@ title: Weekly Overview
 ## What is Interaction?
 
 #### Week 1
+
+**Topic**: Introduction & Light Overview of Interaction Theory
+
+_Focus Area/s_:
+- Course Overview
+- What is "Interaction"/"Interactive" ?
+
+
 
 **Course Overview**
 
@@ -42,20 +50,24 @@ title: Weekly Overview
 - How to submit HW
 
 
-**"What is Interaction?"**
+**What is "Interaction" ?**
 
 - Reading
     - [Lowgren, Jonas. _Interaction Design - Breif Intro_. Interaction Design Foundation. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/interaction-design-brief-intro.](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/interaction-design-brief-intro)
 
 
 
-
-## 1. UX (User Experience) Design & HCI (Human Computer Interaction)
-
-Weeks 2-4
-
+<!-- Section 1 -->
+<!-- UX -->
+<!-- Weeks 2-4 -->
+## Section 1 -- UX (User Experience) Design & HCI (Human Computer Interaction)
 
 #### Week 2
+
+**Topic**:
+
+_Focus Area/s_:
+-
 
 **What is User Experience (UX) Design?**
 
@@ -71,16 +83,34 @@ Weeks 2-4
 #### Week 4
 
 
-## 2. Interactive Game Art
 
-Weeks 5-8
+
+<!-- Section 2 -->
+<!-- Games -->
+<!-- Weeks 5-8 -->
+## Section 2 -- Interactive Game Art
 
 #### Week 5
 
-**Introduction to Game Art**
+**Topic**: Introduction to Game Art
+
+_Focus Area/s_:
+- Interactive game art
+- Unity: "Hello World"
+
+**Interactive game art**
 
 - Readings
     - [Ritter, Don. 2013. "This is not a computer game: this is not interactive art." Next Level of Art_Game, International New Media Art Symposium](http://aesthetic-machinery.com/documents_pdf/Ritter_game_art.pdf)
+
+**Unity: "Hello World"**
+
+- What is Unity?
+- What is it not?
+- Similar game engines or environments to Unity?
+- Download, Install, & License
+- Overview of the platform.
+- Your first project - "Hello World"
 
 #### Week 6
 
