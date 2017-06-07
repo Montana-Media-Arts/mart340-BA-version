@@ -7,3 +7,5 @@ For help on GitHub and Markdown, please view weeks 1 & 2 from mart341.
 
 
 Good luck developing this course!
+
+Thanks, I'll most certainly need it! - JP
