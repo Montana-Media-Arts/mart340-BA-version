@@ -4,14 +4,15 @@ title: Weekly Overview
 
 # Large Topics
 
-1. Interactive Game Art
+0. Overview of Interaction Theory (1)
+1. Interactive Game Art (2-5)
     - Unity
-2. Aesthetics and Composition of Interactive Systems
+2. Aesthetics and Composition of Interactive Systems (6-9)
     - Interactive Art
         - Ars Electronica | Golden Nica
         - Analysis & Discussion
-3. UX (User Experience) Design & HCI (Human Computer Interaction)
-
+3. UX (User Experience) Design & HCI (Human Computer Interaction) (10-12)
+4. Final Project Focus Work (13-Finals Week)
 
 
 
@@ -22,7 +23,7 @@ title: Weekly Overview
 
 #### Week 1
 
-**Topic**: Introduction & Light Overview of Interaction Theory
+**Topic**: Introduction & Overview of Interaction Theory
 
 _Focus Area/s_:
 - Course Overview
@@ -58,45 +59,18 @@ _Focus Area/s_:
 
 
 <!-- Section 1 -->
-<!-- UX -->
-<!-- Weeks 2-4 -->
-## Section 1 -- UX (User Experience) Design & HCI (Human Computer Interaction)
+<!-- Games -->
+<!-- Weeks 2-5 -->
+## Section 1 -- Interactive Game Art
 
 #### Week 2
 
-**Topic**:
-
-_Focus Area/s_:
--
-
-**What is User Experience (UX) Design?**
-
-- Readings
-    - [The Three Types of UX Design (And Why They Matter) | incitrio, 2014](http://incitrio.com/the-three-types-of-ux-design-and-why-they-matter/)
-    - [Understanding The Different Types of UI/UX Roles | NYCDA Blog](https://nycda.com/blog/understanding-the-different-types-of-uiux-roles)
-
-
-
-#### Week 3
-
-
-#### Week 4
-
-
-
-
-<!-- Section 2 -->
-<!-- Games -->
-<!-- Weeks 5-8 -->
-## Section 2 -- Interactive Game Art
-
-#### Week 5
-
-**Topic**: Introduction to Game Art
+**Topic**: Introduction to Game Art and the Unity Application
 
 _Focus Area/s_:
 - Interactive game art
 - Unity: "Hello World"
+- Unity: Application Overview
 
 **Interactive game art**
 
@@ -112,24 +86,93 @@ _Focus Area/s_:
 - Overview of the platform.
 - Your first project - "Hello World"
 
+**Unity: Application Overview**
+
+- [Walker Boys Studio: Learn the Unity Application and Tools](http://www.walkerboystudio.com/wbstudio/project-unity-application/)
+    - This will take an approximately 3-4 hours.
+    - Watch all 60 videos and take the two exams
+
+
+
+#### Week 3
+
+**Topic**: Scripting and the Unity API
+
+_Focus Area/s_:
+- Unity Script
+- C#
+- the Unity API
+
+**Unity Script**
+
+- Watch and work though the Unity Script videos and documentation
+    - [Walker Boys Studio: Unity Script Programming](http://www.walkerboystudio.com/wbstudio/project-unityscript-js-programming/)
+    - Take both exams
+    - Time: apprx 3 hrs
+
+**C#**
+
+- Watch and work though the C# Programming videos and documentation
+    - [Walker Boys Studio: Unity Script Programming](http://www.walkerboystudio.com/wbstudio/project-c-programming/)
+    - Take both exams
+    - Time: apprx 3 hrs
+
+**The Unity API**
+
+- Learn the Unity API.
+    - Either work through the API in Unity Script (JS) or C#
+        - [Unity Script Module](http://www.walkerboystudio.com/wbstudio/project-unity-api-js/)
+        - [C# Module](http://www.walkerboystudio.com/wbstudio/project-unity-api-c/)
+    - Take both exams
+    - Time: apprx 3 hrs
+
+
+#### Week 4
+
+**Topic**: Your first game | Click and Destroy
+
+_Focus Area/s_:
+- Build your first game
+- Develop a working knowledge of Unity
+- place assets
+- build gameplay
+- scripting
+
+**Build a Game**
+
+- [Walker Boys Studio: Click and Destroy Project](http://www.walkerboystudio.com/wbstudio/project-click-and-destroy/)
+- Time: 6-10 hours
+
+
+
+#### Week 5
+
+**Topic**: 2D Space Shooter game
+
+_Focus Area/s_:
+- Load Screen
+- Menu Screen
+- Game/Level (Minimum 1 playable level)
+- Victory Screen (With option to replay and quit)
+- Loss Screen (With option to replay and quit)
+- GUI / Interface (In game and for the menus)
+- Project Files and working Executable
+- Bug Free
+- Presentation
+
+**2d Space Shooter Game**
+
+- [Walker  Boys Studio Tutorial](http://www.walkerboystudio.com/wbstudio/project-space-shooter/)
+
+
+<!-- Section 2 -->
+<!-- Interactive Systems -->
+<!-- Weeks 6-9 -->
+## 2. Aesthetics and Creation of Interactive Systems
+
+
+
 #### Week 6
-
-
-
-#### Week 7
-
-
-
-#### Week 8
-
-
-
-
-## 3. Aesthetics and Creation of Interactive Systems
-
-Weeks 9-12
-
-#### Week 9
 
 **Interactive Art**
 
@@ -144,7 +187,42 @@ Weeks 9-12
     - OR "What is the difference between an interactive and reactive system?"
 
 
+#### Week 7
+
+
+
+
+
+#### Week 8
+
+
+
+#### Week 9
+
+
+
+
+
+
+<!-- Section 3 -->
+<!-- UX & HCI -->
+<!-- Weeks 10-12 -->
+## Section 3 -- UX (User Experience) Design & HCI (Human Computer Interaction)
+
 #### Week 10
+
+**Topic**:
+
+_Focus Area/s_:
+-
+
+**What is User Experience (UX) Design?**
+
+- Readings
+    - [The Three Types of UX Design (And Why They Matter) | incitrio, 2014](http://incitrio.com/the-three-types-of-ux-design-and-why-they-matter/)
+    - [Understanding The Different Types of UI/UX Roles | NYCDA Blog](https://nycda.com/blog/understanding-the-different-types-of-uiux-roles)
+
+
 
 
 
