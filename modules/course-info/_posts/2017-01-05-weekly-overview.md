@@ -221,6 +221,7 @@ _Focus Area/s_:
 - Readings
     - [The Three Types of UX Design (And Why They Matter) | incitrio, 2014](http://incitrio.com/the-three-types-of-ux-design-and-why-they-matter/)
     - [Understanding The Different Types of UI/UX Roles | NYCDA Blog](https://nycda.com/blog/understanding-the-different-types-of-uiux-roles)
+    - [Interaction Design Basics | usability.gov](https://www.usability.gov/what-and-why/interaction-design.html)
 
 
 
